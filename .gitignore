@@ -1,0 +1,5 @@
+# Ignore transient and ritual files
+06-scratch/temp/
+*.cache
+*.log
+.DS_Store
