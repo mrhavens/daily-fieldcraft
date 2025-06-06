@@ -6,24 +6,24 @@
 - **Local Repo Path**: `/home/mrhavens/fieldwork/daily-fieldcraft`
 - **Remote Label**: `local`
 - **Default Branch**: `main`
-- **Repo Created**: `2025-06-06 13:24:09`
+- **Repo Created**: `2025-06-06 13:25:17`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-06 13:24:09`
-- **Last Commit SHA**: `3bc443d9d152a1d07f9ecd2d9cbdfd6b0c1840b3`
-- **Last Commit Message**: `Generated GITFIELD.md at 2025-06-06 13:15:32`
+- **This Commit Timestamp**: `2025-06-06 13:25:17`
+- **Last Commit SHA**: `151adcfacb879145dc4c4e163e0d66a5a71c2fe7`
+- **Last Commit Message**: `Bitbucket metadata link commit at 2025-06-06 13:25:11 — https://bitbucket.org/thefoldwithin/daily-fieldcraft/commits/40e2cdec952e230d65085600f567092c98b7cbb6`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 6 13:24:09 2025 -0500`
+- **Last Commit Date**: `Fri Jun 6 13:25:11 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `14`
+- **Total Commits**: `20`
 - **Tracked Files**: `57`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 12 hours, 5 minutes`
+- **System Uptime**: `up 12 hours, 6 minutes`
 - **MAC Address**: `00:15:5d:86:d8:cc`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
